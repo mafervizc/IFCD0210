@@ -1,0 +1,23 @@
+Etiqueta Meta.
+
+La etiqueta <meta> define los metadatos de un documento HTML (los metadatos son información de la información).
+Siempre se encuentra dentro de la etiqueta <head> y se usa para especificar el tipo de caracteres a utilizar en el documento,descripción de la página, información acerca del 
+autor, palabras clave y ajustes de resolución.
+Esta no se ve reflejada en la página web.
+
+Compatibilidad con Navegadores:
+Es compatible con todos los navegadores.
+
+Ejemplos de uso:
+
+- <meta charset="UTF-8">
+- <meta name="descripción" content="Descripción de la página web">
+- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Origen de etiquetas:
+
+Etiqueta introducida en la primera versión: <dd>
+Etiqueta introducidad en la versión 3.0: <small>
+Etiqueta introducidad en la versión 4.0: <object>
+Etiqueta introducidad en la versión 5.0:  <picture>
+
